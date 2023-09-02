@@ -1,0 +1,2 @@
+Testing an automatic EDA analysis library, and different machine learning models for imbalanced data. </br>
+The dataset was taken from Kaggle: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
